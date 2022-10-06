@@ -5,7 +5,7 @@
 - 🧀 Mineira 
 - 🐈 Amante de gatos
   
-   
+ <a href="https://github.com/majono13"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Majono13-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Majono13-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -13,6 +13,7 @@
   <img align="center" alt="Majono13-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Majono13-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ </a>
   
  ## 
  
