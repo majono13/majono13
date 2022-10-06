@@ -1,9 +1,9 @@
 ### Olá! Eu sou Maria Joaquina ✨
 
-💻 Dev Junior | Front-end
-👓 Estudante de TI
-🧀 Mineira 
-🐈 Amante de gatos
+- 💻 Dev Junior | Front-end
+- 👓 Estudante de TI
+- 🧀 Mineira 
+- 🐈 Amante de gatos
   
    
 <div style="display: inline_block"><br>
