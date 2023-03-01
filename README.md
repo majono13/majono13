@@ -1,6 +1,6 @@
 ### Olá! Eu sou Maria Joaquina ✨
 
-- 💻 Dev Junior | Front-end
+- 💻 Dev Junior | Full Stack
 - 👓 Estudante de TI
 - 🧀 Mineira 
 - 🐈 Amante de gatos
@@ -12,6 +12,8 @@
   <img align="center" alt="Majono13-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Majono13-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Majono13-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Majono13-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Majono13-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  </a>
   
