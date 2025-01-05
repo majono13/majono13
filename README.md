@@ -1,6 +1,6 @@
 ### Olá! Eu sou Maria Joaquina ✨
 
-- 💻 Dev Junior | Full Stack
+- 💻 Dev Pleno | Full Stack
 - 👓 Estudante de TI
 - 🧀 Mineira 
 - 🐈 Amante de gatos
